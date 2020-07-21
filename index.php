@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html >
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>TakenJob | We are coming soon.</title>
