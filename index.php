@@ -14,11 +14,12 @@
   <link rel="stylesheet" href="css/photoswipe.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/reveal.css">
-  <link  rel="icon" type="image/x-icon" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/favicon.ico">
-  <link  rel="apple-touch-icon" sizes="180x180" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/apple-touch-icon.png">
-  <link  rel="icon" type="image/png" sizes="32x32" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/favicon-32x32.png">
-  <link  rel="icon" type="image/png" sizes="16x16" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/favicon-16x16.png">
-  <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;display=swap">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="icon" type="image/x-icon" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://takenjob.s3.eu-north-1.amazonaws.com/public/favicon-16x16.png">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rubik:400,500&amp;display=swap">
 </head>
 <body>
   <div id="triangles"></div>
